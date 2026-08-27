@@ -1,0 +1,35 @@
+{
+  "stores": [
+    {"store_id": "BLR-01", "name": "Bangalore Koramangala", "city": "Bangalore", "profile": "Flagship", "region": "Karnataka"},
+    {"store_id": "BLR-02", "name": "Bangalore Indiranagar", "city": "Bangalore", "profile": "Flagship", "region": "Karnataka"},
+    {"store_id": "BLR-03", "name": "Bangalore Whitefield", "city": "Bangalore", "profile": "Flagship", "region": "Karnataka"},
+    {"store_id": "BLR-04", "name": "Bangalore Jayanagar", "city": "Bangalore", "profile": "Flagship", "region": "Karnataka"},
+    {"store_id": "BLR-05", "name": "Bangalore MG Road", "city": "Bangalore", "profile": "Flagship", "region": "Karnataka"},
+    {"store_id": "BLR-06", "name": "Bangalore Malleswaram", "city": "Bangalore", "profile": "Flagship", "region": "Karnataka"},
+    {"store_id": "BLR-07", "name": "Bangalore HSR Layout", "city": "Bangalore", "profile": "Flagship", "region": "Karnataka"},
+    {"store_id": "BLR-08", "name": "Bangalore Electronic City", "city": "Bangalore", "profile": "Tier2_Hub", "region": "Karnataka"},
+    {"store_id": "T2-H01", "name": "Mysore Regional Hub", "city": "Mysore", "profile": "Tier2_Hub", "region": "Karnataka"},
+    {"store_id": "T2-H02", "name": "Mangalore Regional Hub", "city": "Mangalore", "profile": "Tier2_Hub", "region": "Karnataka"},
+    {"store_id": "T2-H03", "name": "Hubli Regional Hub", "city": "Hubli", "profile": "Tier2_Hub", "region": "Karnataka"},
+    {"store_id": "T2-H04", "name": "Belgaum Regional Hub", "city": "Belgaum", "profile": "Tier2_Hub", "region": "Karnataka"},
+    {"store_id": "T2-H05", "name": "Mangalore North Hub", "city": "Mangalore", "profile": "Tier2_Hub", "region": "Karnataka"},
+    {"store_id": "T3-V01", "name": "Davangere Volume Store", "city": "Davangere", "profile": "Tier3_Volume", "region": "Karnataka"},
+    {"store_id": "T3-V02", "name": "Tumkur Volume Store", "city": "Tumkur", "profile": "Tier3_Volume", "region": "Karnataka"},
+    {"store_id": "T3-V03", "name": "Shimoga Volume Store", "city": "Shimoga", "profile": "Tier3_Volume", "region": "Karnataka"},
+    {"store_id": "T3-V04", "name": "Bellary Volume Store", "city": "Bellary", "profile": "Tier3_Volume", "region": "Karnataka"},
+    {"store_id": "T3-V05", "name": "Davangere North Volume Store", "city": "Davangere", "profile": "Tier3_Volume", "region": "Karnataka"},
+    {"store_id": "T3-V06", "name": "Tumkur East Volume Store", "city": "Tumkur", "profile": "Tier3_Volume", "region": "Karnataka"},
+    {"store_id": "T3-V07", "name": "Hospet Volume Store", "city": "Hospet", "profile": "Tier3_Volume", "region": "Karnataka"},
+    {"store_id": "T3-V08", "name": "Chitradurga Volume Store", "city": "Chitradurga", "profile": "Tier3_Volume", "region": "Karnataka"},
+    {"store_id": "T3-V09", "name": "Hassan Volume Store", "city": "Hassan", "profile": "Tier3_Volume", "region": "Karnataka"},
+    {"store_id": "T3-V10", "name": "Bijapur Volume Store", "city": "Bijapur", "profile": "Tier3_Volume", "region": "Karnataka"},
+    {"store_id": "T3-V11", "name": "Raichur Volume Store", "city": "Raichur", "profile": "Tier3_Volume", "region": "Karnataka"},
+    {"store_id": "T3-V12", "name": "Gulbarga Volume Store", "city": "Gulbarga", "profile": "Tier3_Volume", "region": "Karnataka"}
+  ],
+  "festive_windows": {
+    "Makar_Sankranti": {"start_day_of_year": 10, "end_day_of_year": 16, "multiplier_range": [3.0, 4.0]},
+    "Diwali": {"start_day_of_year": 300, "end_day_of_year": 306, "multiplier_range": [3.0, 4.0]},
+    "Dussehra": {"start_day_of_year": 275, "end_day_of_year": 282, "multiplier_range": [3.0, 4.0]}
+  },
+  "capital_cap_inr": 40000000
+}

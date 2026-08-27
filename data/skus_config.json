@@ -1,0 +1,604 @@
+{
+  "skus": [
+    {
+      "sku_id": "SKU-001",
+      "model_name": "Samsung Flag1 55K",
+      "brand": "Samsung",
+      "price_tier": "Flagship",
+      "mrp_inr": 55000,
+      "margin_pct": 0.086,
+      "launch_day_of_year": 1,
+      "successor_sku_id": "SKU-008"
+    },
+    {
+      "sku_id": "SKU-002",
+      "model_name": "Apple Flag2 62K",
+      "brand": "Apple",
+      "price_tier": "Flagship",
+      "mrp_inr": 62000,
+      "margin_pct": 0.09,
+      "launch_day_of_year": 135,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-003",
+      "model_name": "OnePlus Flag3 68K",
+      "brand": "OnePlus",
+      "price_tier": "Flagship",
+      "mrp_inr": 68000,
+      "margin_pct": 0.069,
+      "launch_day_of_year": 45,
+      "successor_sku_id": "SKU-012"
+    },
+    {
+      "sku_id": "SKU-004",
+      "model_name": "Google Flag4 75K",
+      "brand": "Google",
+      "price_tier": "Flagship",
+      "mrp_inr": 75000,
+      "margin_pct": 0.087,
+      "launch_day_of_year": 45,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-005",
+      "model_name": "Samsung Flag5 82K",
+      "brand": "Samsung",
+      "price_tier": "Flagship",
+      "mrp_inr": 82000,
+      "margin_pct": 0.084,
+      "launch_day_of_year": 1,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-006",
+      "model_name": "Apple Flag6 90K",
+      "brand": "Apple",
+      "price_tier": "Flagship",
+      "mrp_inr": 90000,
+      "margin_pct": 0.061,
+      "launch_day_of_year": 135,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-007",
+      "model_name": "OnePlus Flag7 95K",
+      "brand": "OnePlus",
+      "price_tier": "Flagship",
+      "mrp_inr": 95000,
+      "margin_pct": 0.069,
+      "launch_day_of_year": 1,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-008",
+      "model_name": "Google Flag8 105K",
+      "brand": "Google",
+      "price_tier": "Flagship",
+      "mrp_inr": 105000,
+      "margin_pct": 0.082,
+      "launch_day_of_year": 270,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-009",
+      "model_name": "Samsung Flag9 115K",
+      "brand": "Samsung",
+      "price_tier": "Flagship",
+      "mrp_inr": 115000,
+      "margin_pct": 0.069,
+      "launch_day_of_year": 180,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-010",
+      "model_name": "Apple Flag10 125K",
+      "brand": "Apple",
+      "price_tier": "Flagship",
+      "mrp_inr": 125000,
+      "margin_pct": 0.092,
+      "launch_day_of_year": 1,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-011",
+      "model_name": "OnePlus Flag11 135K",
+      "brand": "OnePlus",
+      "price_tier": "Flagship",
+      "mrp_inr": 135000,
+      "margin_pct": 0.09,
+      "launch_day_of_year": 90,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-012",
+      "model_name": "Google Flag12 140K",
+      "brand": "Google",
+      "price_tier": "Flagship",
+      "mrp_inr": 140000,
+      "margin_pct": 0.088,
+      "launch_day_of_year": 225,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-013",
+      "model_name": "Samsung Flag13 145K",
+      "brand": "Samsung",
+      "price_tier": "Flagship",
+      "mrp_inr": 145000,
+      "margin_pct": 0.071,
+      "launch_day_of_year": 135,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-014",
+      "model_name": "Apple Flag14 148K",
+      "brand": "Apple",
+      "price_tier": "Flagship",
+      "mrp_inr": 148000,
+      "margin_pct": 0.098,
+      "launch_day_of_year": 225,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-015",
+      "model_name": "OnePlus Flag15 150K",
+      "brand": "OnePlus",
+      "price_tier": "Flagship",
+      "mrp_inr": 150000,
+      "margin_pct": 0.064,
+      "launch_day_of_year": 270,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-016",
+      "model_name": "Samsung Mid1 15K",
+      "brand": "Samsung",
+      "price_tier": "Mid",
+      "mrp_inr": 15500,
+      "margin_pct": 0.085,
+      "launch_day_of_year": 150,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-017",
+      "model_name": "OnePlus Mid2 17K",
+      "brand": "OnePlus",
+      "price_tier": "Mid",
+      "mrp_inr": 17000,
+      "margin_pct": 0.11,
+      "launch_day_of_year": 1,
+      "successor_sku_id": "SKU-016"
+    },
+    {
+      "sku_id": "SKU-018",
+      "model_name": "Xiaomi Mid3 18K",
+      "brand": "Xiaomi",
+      "price_tier": "Mid",
+      "mrp_inr": 18500,
+      "margin_pct": 0.116,
+      "launch_day_of_year": 240,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-019",
+      "model_name": "Vivo Mid4 20K",
+      "brand": "Vivo",
+      "price_tier": "Mid",
+      "mrp_inr": 20000,
+      "margin_pct": 0.086,
+      "launch_day_of_year": 180,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-020",
+      "model_name": "Oppo Mid5 21K",
+      "brand": "Oppo",
+      "price_tier": "Mid",
+      "mrp_inr": 21500,
+      "margin_pct": 0.084,
+      "launch_day_of_year": 120,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-021",
+      "model_name": "Realme Mid6 23K",
+      "brand": "Realme",
+      "price_tier": "Mid",
+      "mrp_inr": 23000,
+      "margin_pct": 0.121,
+      "launch_day_of_year": 270,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-022",
+      "model_name": "Samsung Mid7 24K",
+      "brand": "Samsung",
+      "price_tier": "Mid",
+      "mrp_inr": 24500,
+      "margin_pct": 0.124,
+      "launch_day_of_year": 150,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-023",
+      "model_name": "OnePlus Mid8 26K",
+      "brand": "OnePlus",
+      "price_tier": "Mid",
+      "mrp_inr": 26000,
+      "margin_pct": 0.109,
+      "launch_day_of_year": 330,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-024",
+      "model_name": "Xiaomi Mid9 28K",
+      "brand": "Xiaomi",
+      "price_tier": "Mid",
+      "mrp_inr": 28000,
+      "margin_pct": 0.083,
+      "launch_day_of_year": 300,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-025",
+      "model_name": "Vivo Mid10 30K",
+      "brand": "Vivo",
+      "price_tier": "Mid",
+      "mrp_inr": 30000,
+      "margin_pct": 0.091,
+      "launch_day_of_year": 120,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-026",
+      "model_name": "Oppo Mid11 32K",
+      "brand": "Oppo",
+      "price_tier": "Mid",
+      "mrp_inr": 32000,
+      "margin_pct": 0.129,
+      "launch_day_of_year": 90,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-027",
+      "model_name": "Realme Mid12 34K",
+      "brand": "Realme",
+      "price_tier": "Mid",
+      "mrp_inr": 34000,
+      "margin_pct": 0.123,
+      "launch_day_of_year": 180,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-028",
+      "model_name": "Samsung Mid13 36K",
+      "brand": "Samsung",
+      "price_tier": "Mid",
+      "mrp_inr": 36000,
+      "margin_pct": 0.094,
+      "launch_day_of_year": 300,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-029",
+      "model_name": "OnePlus Mid14 38K",
+      "brand": "OnePlus",
+      "price_tier": "Mid",
+      "mrp_inr": 38000,
+      "margin_pct": 0.122,
+      "launch_day_of_year": 60,
+      "successor_sku_id": "SKU-018"
+    },
+    {
+      "sku_id": "SKU-030",
+      "model_name": "Xiaomi Mid15 40K",
+      "brand": "Xiaomi",
+      "price_tier": "Mid",
+      "mrp_inr": 40000,
+      "margin_pct": 0.099,
+      "launch_day_of_year": 90,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-031",
+      "model_name": "Vivo Mid16 42K",
+      "brand": "Vivo",
+      "price_tier": "Mid",
+      "mrp_inr": 42000,
+      "margin_pct": 0.114,
+      "launch_day_of_year": 330,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-032",
+      "model_name": "Oppo Mid17 44K",
+      "brand": "Oppo",
+      "price_tier": "Mid",
+      "mrp_inr": 44000,
+      "margin_pct": 0.127,
+      "launch_day_of_year": 300,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-033",
+      "model_name": "Realme Mid18 46K",
+      "brand": "Realme",
+      "price_tier": "Mid",
+      "mrp_inr": 46000,
+      "margin_pct": 0.084,
+      "launch_day_of_year": 300,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-034",
+      "model_name": "Samsung Mid19 47K",
+      "brand": "Samsung",
+      "price_tier": "Mid",
+      "mrp_inr": 47500,
+      "margin_pct": 0.089,
+      "launch_day_of_year": 330,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-035",
+      "model_name": "OnePlus Mid20 48K",
+      "brand": "OnePlus",
+      "price_tier": "Mid",
+      "mrp_inr": 48500,
+      "margin_pct": 0.092,
+      "launch_day_of_year": 210,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-036",
+      "model_name": "Xiaomi Mid21 49K",
+      "brand": "Xiaomi",
+      "price_tier": "Mid",
+      "mrp_inr": 49000,
+      "margin_pct": 0.099,
+      "launch_day_of_year": 300,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-037",
+      "model_name": "Vivo Mid22 33K",
+      "brand": "Vivo",
+      "price_tier": "Mid",
+      "mrp_inr": 33000,
+      "margin_pct": 0.114,
+      "launch_day_of_year": 90,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-038",
+      "model_name": "Oppo Mid23 27K",
+      "brand": "Oppo",
+      "price_tier": "Mid",
+      "mrp_inr": 27000,
+      "margin_pct": 0.114,
+      "launch_day_of_year": 1,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-039",
+      "model_name": "Realme Mid24 22K",
+      "brand": "Realme",
+      "price_tier": "Mid",
+      "mrp_inr": 22000,
+      "margin_pct": 0.091,
+      "launch_day_of_year": 1,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-040",
+      "model_name": "Samsung Mid25 19K",
+      "brand": "Samsung",
+      "price_tier": "Mid",
+      "mrp_inr": 19000,
+      "margin_pct": 0.12,
+      "launch_day_of_year": 180,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-041",
+      "model_name": "Xiaomi Budget1 6K",
+      "brand": "Xiaomi",
+      "price_tier": "Budget",
+      "mrp_inr": 6000,
+      "margin_pct": 0.116,
+      "launch_day_of_year": 120,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-042",
+      "model_name": "Realme Budget2 6K",
+      "brand": "Realme",
+      "price_tier": "Budget",
+      "mrp_inr": 6500,
+      "margin_pct": 0.155,
+      "launch_day_of_year": 200,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-043",
+      "model_name": "Lava Budget3 7K",
+      "brand": "Lava",
+      "price_tier": "Budget",
+      "mrp_inr": 7000,
+      "margin_pct": 0.113,
+      "launch_day_of_year": 300,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-044",
+      "model_name": "Itel Budget4 7K",
+      "brand": "Itel",
+      "price_tier": "Budget",
+      "mrp_inr": 7500,
+      "margin_pct": 0.124,
+      "launch_day_of_year": 280,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-045",
+      "model_name": "Nokia Budget5 8K",
+      "brand": "Nokia",
+      "price_tier": "Budget",
+      "mrp_inr": 8000,
+      "margin_pct": 0.109,
+      "launch_day_of_year": 80,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-046",
+      "model_name": "Samsung Budget6 8K",
+      "brand": "Samsung",
+      "price_tier": "Budget",
+      "mrp_inr": 8500,
+      "margin_pct": 0.115,
+      "launch_day_of_year": 340,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-047",
+      "model_name": "Xiaomi Budget7 9K",
+      "brand": "Xiaomi",
+      "price_tier": "Budget",
+      "mrp_inr": 9000,
+      "margin_pct": 0.132,
+      "launch_day_of_year": 260,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-048",
+      "model_name": "Realme Budget8 9K",
+      "brand": "Realme",
+      "price_tier": "Budget",
+      "mrp_inr": 9500,
+      "margin_pct": 0.154,
+      "launch_day_of_year": 240,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-049",
+      "model_name": "Lava Budget9 10K",
+      "brand": "Lava",
+      "price_tier": "Budget",
+      "mrp_inr": 10000,
+      "margin_pct": 0.122,
+      "launch_day_of_year": 80,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-050",
+      "model_name": "Itel Budget10 10K",
+      "brand": "Itel",
+      "price_tier": "Budget",
+      "mrp_inr": 10500,
+      "margin_pct": 0.131,
+      "launch_day_of_year": 40,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-051",
+      "model_name": "Nokia Budget11 11K",
+      "brand": "Nokia",
+      "price_tier": "Budget",
+      "mrp_inr": 11000,
+      "margin_pct": 0.145,
+      "launch_day_of_year": 60,
+      "successor_sku_id": "SKU-044"
+    },
+    {
+      "sku_id": "SKU-052",
+      "model_name": "Samsung Budget12 11K",
+      "brand": "Samsung",
+      "price_tier": "Budget",
+      "mrp_inr": 11500,
+      "margin_pct": 0.109,
+      "launch_day_of_year": 100,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-053",
+      "model_name": "Xiaomi Budget13 12K",
+      "brand": "Xiaomi",
+      "price_tier": "Budget",
+      "mrp_inr": 12000,
+      "margin_pct": 0.148,
+      "launch_day_of_year": 260,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-054",
+      "model_name": "Realme Budget14 12K",
+      "brand": "Realme",
+      "price_tier": "Budget",
+      "mrp_inr": 12500,
+      "margin_pct": 0.136,
+      "launch_day_of_year": 240,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-055",
+      "model_name": "Lava Budget15 13K",
+      "brand": "Lava",
+      "price_tier": "Budget",
+      "mrp_inr": 13000,
+      "margin_pct": 0.123,
+      "launch_day_of_year": 280,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-056",
+      "model_name": "Itel Budget16 13K",
+      "brand": "Itel",
+      "price_tier": "Budget",
+      "mrp_inr": 13500,
+      "margin_pct": 0.132,
+      "launch_day_of_year": 340,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-057",
+      "model_name": "Nokia Budget17 14K",
+      "brand": "Nokia",
+      "price_tier": "Budget",
+      "mrp_inr": 14000,
+      "margin_pct": 0.152,
+      "launch_day_of_year": 1,
+      "successor_sku_id": "SKU-048"
+    },
+    {
+      "sku_id": "SKU-058",
+      "model_name": "Samsung Budget18 14K",
+      "brand": "Samsung",
+      "price_tier": "Budget",
+      "mrp_inr": 14500,
+      "margin_pct": 0.141,
+      "launch_day_of_year": 60,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-059",
+      "model_name": "Xiaomi Budget19 14K",
+      "brand": "Xiaomi",
+      "price_tier": "Budget",
+      "mrp_inr": 14800,
+      "margin_pct": 0.141,
+      "launch_day_of_year": 340,
+      "successor_sku_id": null
+    },
+    {
+      "sku_id": "SKU-060",
+      "model_name": "Realme Budget20 15K",
+      "brand": "Realme",
+      "price_tier": "Budget",
+      "mrp_inr": 15000,
+      "margin_pct": 0.145,
+      "launch_day_of_year": 200,
+      "successor_sku_id": null
+    }
+  ]
+}
