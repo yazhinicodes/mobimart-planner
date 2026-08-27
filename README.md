@@ -33,21 +33,23 @@ noise in the generated dataset; re-run `python -m simulation.evaluator`
 for the exact current values.)
 
 ## Project Structure
+```
 mobimart-planner/
 ├── data/
-│ ├── stores_config.json # 25 stores (8 in Bangalore, rest Karnataka tier-2/3 cities)
-│ ├── skus_config.json # 60 SKUs: Flagship (>₹50k), Mid (₹15k-50k), Budget (<₹15k)
-│ └── sales_history_12m.csv # 365 days of generated daily sales history
+│   ├── stores_config.json       # 25 stores (8 in Bangalore, rest Karnataka tier-2/3 cities)
+│   ├── skus_config.json         # 60 SKUs: Flagship (>₹50k), Mid (₹15k-50k), Budget (<₹15k)
+│   └── sales_history_12m.csv    # 365 days of generated daily sales history
 ├── engine/
-│ ├── data_generator.py # Task 1: synthesizes the 12-month sales history
-│ ├── profiling.py # shared demand-forecasting, SKU-aging & Rs. formatting utilities
-│ ├── allocation.py # Task 2: Monday weekly allocation engine (Priority Index)
-│ └── lifecycle.py # Task 3: EOL risk detection + Hold/Markdown/Transfer engine
+│   ├── data_generator.py        # Task 1: synthesizes the 12-month sales history
+│   ├── profiling.py             # shared demand-forecasting, SKU-aging & Rs. formatting utilities
+│   ├── allocation.py            # Task 2: Monday weekly allocation engine (Priority Index)
+│   └── lifecycle.py             # Task 3: EOL risk detection + Hold/Markdown/Transfer engine
 ├── simulation/
-│ ├── baseline_naive.py # Task 5: naive proportional-to-last-month baseline
-│ └── evaluator.py # Task 5: backtest + 5-metric honest scorecard
-├── app.py # Task 4: Streamlit owner dashboard (4 tabs)
+│   ├── baseline_naive.py        # Task 5: naive proportional-to-last-month baseline
+│   └── evaluator.py             # Task 5: backtest + 5-metric honest scorecard
+├── app.py                       # Task 4: Streamlit owner dashboard (4 tabs)
 └── requirements.txt
+```
 
 ## Setup
 
