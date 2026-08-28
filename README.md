@@ -1,5 +1,7 @@
 # MobiMart Planner
 
+**🔗 Live Demo:** [mobimart-planner.streamlit.app](https://mobimart-planner.streamlit.app)
+
 Weekly stock allocation & end-of-life risk engine for a 25-store mobile
 retail chain operating under a hard **₹4 Crore** working-capital cap.
 Built in Python/Streamlit as a capital-constrained decision-support system:
